@@ -72,3 +72,4 @@ document.getElementById("buttpp").addEventListener("mousedown", (event) => {
 document
   .getElementById("sectionB")
   .addEventListener("dblclick", (event) => console.log("double"));
+//history1
